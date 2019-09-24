@@ -16336,7 +16336,7 @@
         "N80": "$$a913(437.6)$$2MRF|$$a913(439)$$2MRF",
         "N245A": "Duna-Szerdahely und Hédervár|Duna-Szerdahely a Hédervár|Dunajská Streda| Dun. Streda a Hédervár|Dunaszerdahely és Hédervár",
         "N651": "$$aDunajská Streda (Slovensko : oblast)$$xx0117432|$$aHédervár (Maďarsko : oblast)$$7ge900870",
-        "POZNAMKA": "",
+        "POZNAMKA": "test",
         "ZONE_KOL": "Zone 14 Kol. XVII",
         "ZONE_COL": "Zone 14 Col. XVII",
         "ZONE_CSR": "14-XVII"
